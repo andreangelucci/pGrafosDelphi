@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/21 21:48:19.000.290,=C:\Users\Douglas Gongora\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/21 21:50:33.000.800,C:\Users\Douglas Gongora\Documents\projetoEstruturaDados\uniFrmPrincipal.pas=C:\Users\Douglas Gongora\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/21 21:50:33.000.800,C:\Users\Douglas Gongora\Documents\projetoEstruturaDados\uniFrmPrincipal.dfm=C:\Users\Douglas Gongora\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/11/21 21:50:40.000.852,C:\Users\Douglas Gongora\Documents\projetoEstruturaDados\prjTrabalhoEstruturaDados.dproj=C:\Users\Douglas Gongora\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

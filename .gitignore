@@ -1,0 +1,13 @@
+prjTrabalhoEstruturaDados.stat
+prjTrabalhoEstruturaDados.skincfg
+prjTrabalhoEstruturaDados.identcache
+prjTrabalhoEstruturaDados.tvsconfig
+*.vlb
+*.exe
+*.res
+*.ddp
+*.~dfm
+*.~pas
+Win32/
+__history/
+__recovery/
