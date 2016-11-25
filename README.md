@@ -1,4 +1,4 @@
 # pGrafosDelphi
-Projeto envolvento grafos com Delphi.
+Projeto envolvendo grafos com Delphi.
 
 ![demo](demo/demo.gif)
